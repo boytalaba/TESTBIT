@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x53Ee57146C90Df337c24dC6fbD6E40130ab73073",
+  "SCAN_LINK": "https://brisescan.com/address/0x53Ee57146C90Df337c24dC6fbD6E40130ab73073",
+  "NETWORK": {
+    "NAME": "BITGERT",
+    "SYMBOL": "BRISE",
+    "ID": 32520
+  },
+  "NFT_NAME": "TEST",
+  "SYMBOL": "TEST",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 
+  200000000000000000000,
+  "DISPLAY_COST": 200,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
